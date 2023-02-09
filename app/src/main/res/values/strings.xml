@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo_project</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="name">Hadi</string>
+    <string name="Email">malakhadikhan@gmail.com</string>
+</resources>
